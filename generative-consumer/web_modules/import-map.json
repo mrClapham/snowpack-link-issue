@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "generative-algos": "./generative-algos.js"
+  }
+}
