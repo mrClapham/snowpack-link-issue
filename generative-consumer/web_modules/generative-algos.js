@@ -53,7 +53,7 @@ const power = (base, exponent) => {
  * @param value - A number to half
  */
 const half = (value) => {
-    return value / 2;
+    return value / 190;
 };
 
 const createCanvas = (target) => `canvas created ${target}`;
