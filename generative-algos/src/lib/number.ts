@@ -55,5 +55,5 @@ export const power = (base: number, exponent: number) => {
  * @param value - A number to half
  */
 export const half = (value: number): number => {
-  return value / 2;
+  return value / 190;
 };
