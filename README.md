@@ -2,7 +2,7 @@ I'm trying to update a link in my library (generative-algos) and have the change
 
 I've tried everything I can think of. This what I think should work.
 
-As a test I'm making a simple change to the function 'half' in 'nunbers.ts' changing it from
+As a test I'm making a simple change to the function 'half' in 'numbers.ts' changing it from
 
 ```
 return value / 2;
